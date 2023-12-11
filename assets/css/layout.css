@@ -22,7 +22,7 @@
     float:left;
     width:206px;
     height:41px;
-    background:url(https://expectation.cloud/assets/img/logo.svg) no-repeat;
+    background:url(https://cdn.jsdelivr.net/gh/expectation-cloud/expectation.cloud-np/assets/img/logo.svg) no-repeat;
 }
 .header__top .logoSub{
 	display:inline-block;
