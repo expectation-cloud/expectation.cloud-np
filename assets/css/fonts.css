@@ -1,0 +1,134 @@
+﻿
+
+/* Noto Sans KR */
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 100;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Thin.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Thin.woff) format('woff');
+}
+
+
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 300;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Light.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Light.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 350;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-DemiLight.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-DemiLight.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 400;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Regular.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Regular.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 500;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Medium.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Medium.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 700;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Bold.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Bold.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 900;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Black.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/NotoSansKR/NotoSansKR-Black.woff) format('woff');
+}
+
+
+/* montserrat-200 - latin */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 200;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-200.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-200.woff) format('woff');
+	unicode-range: U+30-39;
+}
+
+/* montserrat-300 - latin */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 300;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-300.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-300.woff) format('woff');
+	unicode-range: U+30-39;
+
+}
+
+/* montserrat-regular - latin */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 400;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-regular.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-regular.woff) format('woff');
+	unicode-range: U+30-39;
+}
+
+/* montserrat-500 - latin */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 500;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-500.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-500.woff) format('woff');
+	unicode-range: U+30-39;
+}
+
+/* montserrat-700 - latin */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 700;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-700.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-700.woff) format('woff');
+	unicode-range: U+30-39;
+}
+
+/* montserrat-900 - latin */
+@font-face {
+	font-family: 'Montserrat';
+	font-style: normal;
+	font-weight: 900;
+	src: local(''),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-900.woff2) format('woff2'),
+		url(https://www.pipc.go.kr/np/resources/fonts/Montserrat/montserrat-900.woff) format('woff');
+	unicode-range: U+30-39;
+}
